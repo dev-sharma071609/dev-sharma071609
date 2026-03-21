@@ -8,9 +8,8 @@
 ## 🌐 Live AI Applications
 
 ### 🌊 FloodSense AI (Climate + Agriculture)
-AI-powered flood risk prediction and crop advisory system  
 
-👉 https://floodsense-ai-axgfcwvxopy8yhdccdqhpp.streamlit.app/
+👉 https://floodsense-ai-agro-g24ucjzzqzz8xcxikmclqm.streamlit.app/
 
 📘 User Guide:  
 👉 https://scribehow.com/viewer/Use_FloodSense_AI_for_Flood_Risk_and_Crop_Advice__I8AJDuHqTq2mlmO96wf0_Q
@@ -18,7 +17,6 @@ AI-powered flood risk prediction and crop advisory system
 ---
 
 ### 🏏 Cricket AI Rain Predictor (Sports Analytics)
-Machine learning system for rain-aware cricket match prediction  
 
 👉 https://ai-cricket-rain-predictor-mpq9jzapphhayyrpp6ffsuu.streamlit.app/
 
@@ -32,29 +30,29 @@ Machine learning system for rain-aware cricket match prediction
 - 🌊 Climate AI systems  
 - 🌾 Agriculture decision tools  
 - 🏏 Sports analytics models  
-- 📊 End-to-end ML apps (model + UI + deployment)  
+- 📊 End-to-end ML applications  
 
 ---
 
 ## 🔥 Featured Projects
 
 ### 🌊 FloodSense AI
-- Flood risk prediction (Low → Severe)
-- Explainable AI (why prediction)
-- Crop advisory system for farmers
-- Fully deployed interactive app
+- Flood prediction (Low → Severe)
+- Explainable AI
+- Crop advisory system
+- Fully deployed application
 
 ---
 
 ### 🏏 Cricket AI Decision System
 - Rain-aware match prediction
 - Inspired by DLS method
-- Real-time scenario simulation
+- Scenario-based modeling
 
 ---
 
 ### 🚀 SpaceX Landing Prediction
-- ML model predicting rocket landing success
+- ML model for rocket landing success
 - IBM Data Science project
 
 ---
@@ -66,7 +64,6 @@ Machine learning system for rain-aware cricket match prediction
 - Data Analysis  
 - Streamlit  
 - Model Deployment  
-- Problem Solving  
 
 ---
 
@@ -87,3 +84,4 @@ To build AI systems that solve real-world problems in:
 ---
 
 ⭐ Always building, learning, and improving
+
