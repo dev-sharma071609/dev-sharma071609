@@ -3,6 +3,26 @@
 🚀 AI & Data Science Student  
 🌍 Building real-world machine learning systems with impact  
 
+I’m a high school student from India building applied AI projects with real-world impact.  
+My work focuses on climate risk prediction, agriculture advisory, and sports analytics.
+
+---
+
+## 📄 Research Work
+
+### 📊 Machine Learning vs Rule-Based Systems
+
+I conducted a comparative research study evaluating the effectiveness of machine learning in decision-making under uncertainty across two domains:
+
+- 🏏 Sports Analytics (DLS Alternative)
+- 🌊 Flood Risk Prediction (Agriculture Advisory)
+
+📥 Read Full Paper:  
+https://github.com/dev-sharma071609/ml-vs-rule-based-decision-making/raw/main/ML_Effectiveness_Evaluation_Study.pdf
+
+🔗 Research Repository:  
+https://github.com/dev-sharma071609/ml-vs-rule-based-decision-making
+
 ---
 
 ## 🌐 Live AI Applications
@@ -84,4 +104,3 @@ To build AI systems that solve real-world problems in:
 ---
 
 ⭐ Always building, learning, and improving
-
