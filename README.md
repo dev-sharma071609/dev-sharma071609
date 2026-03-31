@@ -18,7 +18,7 @@ I conducted a comparative research study evaluating the effectiveness of machine
 - 🌊 Flood Risk Prediction (Agriculture Advisory)
 
 📥 Read Full Paper:  
-https://github.com/dev-sharma071609/ml-vs-rule-based-decision-making/raw/main/ML_Effectiveness_Evaluation_Study.pdf
+https://github.com/dev-sharma071609/ml-vs-rule-based-decision-making/blob/main/research%20paper/ML_Effectiveness_Evaluation_Study.pdf
 
 🔗 Research Repository:  
 https://github.com/dev-sharma071609/ml-vs-rule-based-decision-making
