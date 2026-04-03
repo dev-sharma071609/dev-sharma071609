@@ -23,6 +23,9 @@ https://github.com/dev-sharma071609/ml-vs-rule-based-decision-making/blob/main/r
 🔗 Research Repository:  
 https://github.com/dev-sharma071609/ml-vs-rule-based-decision-making
 
+📄 Research Paper (DOI):
+https://zenodo.org/records/19394563
+
 ---
 
 ## 🌐 Live AI Applications
