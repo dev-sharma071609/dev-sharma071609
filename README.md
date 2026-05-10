@@ -3,7 +3,7 @@
 🚀 AI & Data Science Student  
 🌍 Building real-world machine learning systems with impact  
 
-I’m a high school student from India building applied AI projects with real-world impact.  
+I’m a grade 12 student from India building applied AI projects with real-world impact.  
 My work focuses on climate risk prediction, agriculture advisory, and sports analytics.
 
 ---
